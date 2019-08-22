@@ -1,0 +1,2 @@
+# caseWidgetAngularApp
+Angular Widget App
